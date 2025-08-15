@@ -1,3 +1,5 @@
+# santander-first-inmetrics
+teste inmetics
 # Testes Automatizados - Cypress + Cucumber
 
 Este projeto contém testes automatizados desenvolvidos com **Cypress** e **Cucumber**, seguindo a abordagem **BDD (Behavior Driven Development)** para facilitar a compreensão e manter rastreabilidade entre requisitos e automação.
@@ -54,7 +56,7 @@ projeto
 
 1. **Clonar o repositório**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/lucasbuff04/santander-first-inmetrics.git
    cd santander-first-inmetrics
 
 2. **Instalar dependências**
