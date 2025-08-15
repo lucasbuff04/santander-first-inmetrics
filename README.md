@@ -56,7 +56,7 @@ projeto
 
 1. **Clonar o repositório**
    ```bash
-   git clone https://github.com/lucasbuff04/santander-first-inmetrics
+   git clone https://github.com/lucasbuff04/santander-first-inmetrics.git
    cd santander-first-inmetrics
 
 2. **Instalar dependências**
